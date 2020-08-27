@@ -15,4 +15,4 @@ const routes = require('./routes');
 routes(app);
 app.use(handleErrors);
 app.listen(port);
-console.log('Learn Node JS With Kiddy, RESTful API server started on: ' + port); 
+
